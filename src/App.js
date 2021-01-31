@@ -63,6 +63,7 @@ function LaunchIndex() {
 
 
 
+
 function LaunchShoe() {
   const { slug } = useParams();
   const shoe = shoes[slug];
